@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Areas"
+    "\\Areas",
+    "\\Views",
+    "\\Views\\Shared"
   ],
-  "SelectedNode": "\\Areas",
+  "SelectedNode": "\\Web_1670.sln",
   "PreviewInSolutionExplorer": false
 }

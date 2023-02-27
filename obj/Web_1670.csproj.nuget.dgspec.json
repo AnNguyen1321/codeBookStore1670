@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GCH1002\\1670_Application Development\\Web_1670\\Web_1670.csproj": {}
+    "C:\\Users\\admin\\Downloads\\Lesson6&7\\Asm2cloud\\codeBookStore1670\\Web_1670.csproj": {}
   },
   "projects": {
-    "D:\\GCH1002\\1670_Application Development\\Web_1670\\Web_1670.csproj": {
+    "C:\\Users\\admin\\Downloads\\Lesson6&7\\Asm2cloud\\codeBookStore1670\\Web_1670.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GCH1002\\1670_Application Development\\Web_1670\\Web_1670.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Downloads\\Lesson6&7\\Asm2cloud\\codeBookStore1670\\Web_1670.csproj",
         "projectName": "Web_1670",
-        "projectPath": "D:\\GCH1002\\1670_Application Development\\Web_1670\\Web_1670.csproj",
-        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "D:\\GCH1002\\1670_Application Development\\Web_1670\\obj\\",
+        "projectPath": "C:\\Users\\admin\\Downloads\\Lesson6&7\\Asm2cloud\\codeBookStore1670\\Web_1670.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Downloads\\Lesson6&7\\Asm2cloud\\codeBookStore1670\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -86,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
